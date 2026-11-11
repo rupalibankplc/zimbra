@@ -1,1 +1,1 @@
-# zimbra
+su - zimbra -c 'bash /opt/zimbra/scripts/zimbra-check.sh'
